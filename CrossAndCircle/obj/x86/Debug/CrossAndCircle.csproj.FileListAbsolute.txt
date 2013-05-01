@@ -1,0 +1,5 @@
+c:\users\piotr\documents\visual studio 2010\Projects\CrossAndCircle\CrossAndCircle\bin\Debug\CrossAndCircle.exe
+c:\users\piotr\documents\visual studio 2010\Projects\CrossAndCircle\CrossAndCircle\bin\Debug\CrossAndCircle.pdb
+c:\users\piotr\documents\visual studio 2010\Projects\CrossAndCircle\CrossAndCircle\obj\x86\Debug\CrossAndCircle.exe
+c:\users\piotr\documents\visual studio 2010\Projects\CrossAndCircle\CrossAndCircle\obj\x86\Debug\CrossAndCircle.pdb
+C:\Users\Piotr\documents\visual studio 2010\Projects\CrossAndCircle\CrossAndCircle\obj\x86\Debug\CrossAndCircle.csprojResolveAssemblyReference.cache
